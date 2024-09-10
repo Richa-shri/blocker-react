@@ -5,6 +5,15 @@
   "main": "dist/index.js",
   "module": "dist/index.js",
   "types": "dist/index.d.ts",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Richa-shri/blocker-react.git"
+  },
+  "keywords": [
+    "npm",
+    "example",
+    "package"
+  ],
   "scripts": {
     "build": "webpack --mode production",
     "build:dev": "webpack --mode development"

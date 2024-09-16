@@ -69,10 +69,4 @@ To see how the loader works in your project, try changing the `type` or adjustin
 
 This project is licensed under the MIT License.
 
----
 
-Feel free to add additional sections, such as contributing or examples for customization, depending on your needs.
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](./LICENSE) file for details.
